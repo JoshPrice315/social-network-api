@@ -1,6 +1,5 @@
 # Social Network API
-  ![Github licence](http://img.shields.io/badge/license-MIT License-blue.svg)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
  A social network API made with MongoDB for a NoSQL application.
