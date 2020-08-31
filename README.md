@@ -15,19 +15,14 @@
 
 ## Installation
 
-npm init -y / npm install
+npm init -y 
+npm install
 
 ## Usage
 
-This application requites MongoDB you can test request paths using Insomnia. / mongod / npmstart
-
-## Contribution
-
-Joshua Price
-
-## Tests
-
-.
+This application requites MongoDB you can test request paths using Insomnia. 
+mongod
+npmstart
 
 ## License
 
